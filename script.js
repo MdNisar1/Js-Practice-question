@@ -55,6 +55,8 @@
 // console.log("course:js");
 // console.groupEnd();
 
-console.time("loopTime");
-for(let i = 0; i<100000;i++){}     // isme dout hai
-console.timeEnd("loopTime");
+// console.time("loopTime");
+// for(let i = 0; i<100000;i++){}     // isme dout hai
+// console.timeEnd("loopTime");
+
+console.clear();
