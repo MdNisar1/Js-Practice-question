@@ -59,4 +59,7 @@
 // for(let i = 0; i<100000;i++){}     // isme dout hai
 // console.timeEnd("loopTime");
 
-console.clear();
+// console.clear();
+
+let name = "nisar md";
+console.log(name);
