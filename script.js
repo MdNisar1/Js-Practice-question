@@ -25,5 +25,8 @@
 // let na = "nisar";
 // console.log(`hello,${na}! kuch karoo`);
 
-let fruits = "apple,banana,grapes";
-console.log(fruits.split(","));
+// let fruits = "apple,banana,grapes";
+// console.log(fruits.split(","));
+
+let text = "i love html";
+console.log(text.replace("html","javascript"));
