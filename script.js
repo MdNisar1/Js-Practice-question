@@ -71,5 +71,8 @@
 // console.log(`hello,${name}!welcome to js.`);
 
 
-let freuits = "apple,banana,graps";
-console.log(freuits.split(","))
+// let freuits = "apple,banana,graps";
+// console.log(freuits.split(","))
+
+let sentence = "i love html";
+console.log(sentence.replace("html","javascript"));
