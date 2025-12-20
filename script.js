@@ -14,3 +14,6 @@
 //     course: "javascript"
 // };
 // console.table(user);
+
+let message = "hello javascript";
+console.log(message);
