@@ -77,5 +77,11 @@
 // let sentence = "i love html";
 // console.log(sentence.replace("html","javascript"));
 
-let text = "learning javascript is fun!";
-console.log(text.includes("fun"));
+// let text = "learning javascript is fun!";
+// console.log(text.includes("fun"));
+
+
+let a = 10;
+if(a>5){
+    console.log("a is greater than 5")
+}
