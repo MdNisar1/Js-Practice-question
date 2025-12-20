@@ -50,7 +50,11 @@
 // };
 // console.table(user);
 
-console.group("user info");
-console.log("name:nisar");
-console.log("course:js");
-console.groupEnd();
+// console.group("user info");
+// console.log("name:nisar");
+// console.log("course:js");
+// console.groupEnd();
+
+console.time("loopTime");
+for(let i = 0; i<100000;i++){}     // isme dout hai
+console.timeEnd("loopTime");
