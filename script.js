@@ -36,5 +36,9 @@
 
 //............lecture27...java script basics...........//
 
-console.log("hello world!");
-console.log(10+5);
+// console.log("hello world!");
+// console.log(10+5);
+
+console.error("somthing went wrong!");
+console.warn("this is warning!");
+console.info("server started successfully!");
