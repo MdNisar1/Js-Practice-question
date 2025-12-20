@@ -6,10 +6,11 @@
 // var name = "nisar";
 // let age = 23;
 // const country = "india";
+// console.log(name,age,country);
 
-let user = {
-    name: "nisar",
-    email: "nisar@gamil.com",
-    course: "javascript"
-};
-console.table(user);
+// let user = {
+//     name: "nisar",
+//     email: "nisar@gamil.com",
+//     course: "javascript"
+// };
+// console.table(user);
