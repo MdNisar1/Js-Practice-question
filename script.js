@@ -74,5 +74,8 @@
 // let freuits = "apple,banana,graps";
 // console.log(freuits.split(","))
 
-let sentence = "i love html";
-console.log(sentence.replace("html","javascript"));
+// let sentence = "i love html";
+// console.log(sentence.replace("html","javascript"));
+
+let text = "learning javascript is fun!";
+console.log(text.includes("fun"));
