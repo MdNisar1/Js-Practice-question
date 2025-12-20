@@ -15,5 +15,9 @@
 // };
 // console.table(user);
 
-let message = "hello javascript";
-console.log(message);
+// let message = "hello javascript";
+// console.log(message);
+
+
+let str = "javaScript";
+console.log(str.slice(0,4));
