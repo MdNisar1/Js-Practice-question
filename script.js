@@ -39,6 +39,13 @@
 // console.log("hello world!");
 // console.log(10+5);
 
-console.error("somthing went wrong!");
-console.warn("this is warning!");
-console.info("server started successfully!");
+// console.error("somthing went wrong!");
+// console.warn("this is warning!");
+// console.info("server started successfully!");
+
+let user = {
+    name: "nisar",
+    email: "nisar@gamil.com",
+    course: "javascript"
+};
+console.table(user);
