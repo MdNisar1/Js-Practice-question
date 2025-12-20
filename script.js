@@ -31,5 +31,10 @@
 // let text = "i love html";
 // console.log(text.replace("html","javascript"));
 
-let sentence = "javascript is fun!";
-console.log(sentence.includes("fun"));
+// let sentence = "javascript is fun!";
+// console.log(sentence.includes("fun"));
+
+//............lecture27...java script basics...........//
+
+console.log("hello world!");
+console.log(10+5);
