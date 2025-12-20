@@ -61,5 +61,8 @@
 
 // console.clear();
 
-let name = "nisar md";
-console.log(name);
+// let name = "nisar md";
+// console.log(name);
+
+let str = "javascript";
+console.log(str.slice(0,4));
