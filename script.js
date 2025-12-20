@@ -43,9 +43,14 @@
 // console.warn("this is warning!");
 // console.info("server started successfully!");
 
-let user = {
-    name: "nisar",
-    email: "nisar@gamil.com",
-    course: "javascript"
-};
-console.table(user);
+// let user = {
+//     name: "nisar",
+//     email: "nisar@gamil.com",
+//     course: "javascript"
+// };
+// console.table(user);
+
+console.group("user info");
+console.log("name:nisar");
+console.log("course:js");
+console.groupEnd();
