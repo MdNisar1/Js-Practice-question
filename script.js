@@ -67,5 +67,9 @@
 // let str = "javascript";
 // console.log(str.slice(0,4));
 
-let name = "nisar";
-console.log(`hello,${name}!welcome to js.`);
+// let name = "nisar";
+// console.log(`hello,${name}!welcome to js.`);
+
+
+let freuits = "apple,banana,graps";
+console.log(freuits.split(","))
