@@ -28,5 +28,8 @@
 // let fruits = "apple,banana,grapes";
 // console.log(fruits.split(","));
 
-let text = "i love html";
-console.log(text.replace("html","javascript"));
+// let text = "i love html";
+// console.log(text.replace("html","javascript"));
+
+let sentence = "javascript is fun!";
+console.log(sentence.includes("fun"));
