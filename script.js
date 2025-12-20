@@ -22,5 +22,8 @@
 // let str = "javaScript";
 // console.log(str.slice(0,4));
 
-let na = "nisar";
-console.log(`hello,${na}! kuch karoo`);
+// let na = "nisar";
+// console.log(`hello,${na}! kuch karoo`);
+
+let fruits = "apple,banana,grapes";
+console.log(fruits.split(","));
