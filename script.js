@@ -91,11 +91,16 @@
 
 //...........lecture 28.....java script basics...........//
 
-var a = "nisar";
-let b = "sheriyans";
-const c = "katihar";
-console.log(a,b,c);
+// var a = "nisar";
+// let b = "sheriyans";
+// const c = "katihar";
+// console.log(a,b,c);
 
-a = "md nisar";
-b = "md sheriyans";
-console.log(a,b);
+// a = "md nisar";
+// b = "sheriyans";
+// console.log(a,b);
+
+{
+    let x = 10;
+}
+console.log(x);
