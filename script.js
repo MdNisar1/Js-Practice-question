@@ -105,14 +105,22 @@
 // }
 // console.log(x);
 
-const pi = 3.14159;
-let redius = 7;
-let area = pi * redius * redius;
-console.log(area);
+// const pi = 3.14159;
+// let redius = 7;
+// let area = pi * redius * redius;
+// console.log(area);
 
-const baseUrl = "https://api.example.com/data";
-fetch (baseUrl + "/users");
-fetch (baseUrl + "/posts");
+// const baseUrl = "https://api.example.com/data";
+// fetch (baseUrl + "/users");
+// fetch (baseUrl + "/posts");
 
-const appName = "my app";
-console.log("welcome to",appName);
+// const appName = "my app";
+// console.log("welcome to",appName);
+
+let name = "nisar";
+let age = 25;
+let city = "katihar";
+console.log(name,age,city)
+
+console.info("user logged in successfully");
+console.warn("your password will expire in 5 days");
