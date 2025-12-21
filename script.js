@@ -86,5 +86,16 @@
 //     console.log("a is greater than 5")
 // }
 
-2+3;
-"hello"+"world";
+// 2+3;
+// "hello"+"world";
+
+//...........lecture 28.....java script basics...........//
+
+var a = "nisar";
+let b = "sheriyans";
+const c = "katihar";
+console.log(a,b,c);
+
+a = "md nisar";
+b = "md sheriyans";
+console.log(a,b);
