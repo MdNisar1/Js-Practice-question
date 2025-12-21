@@ -100,7 +100,19 @@
 // b = "sheriyans";
 // console.log(a,b);
 
-{
-    let x = 10;
-}
-console.log(x);
+// {
+//     let x = 10;
+// }
+// console.log(x);
+
+const pi = 3.14159;
+let redius = 7;
+let area = pi * redius * redius;
+console.log(area);
+
+const baseUrl = "https://api.example.com/data";
+fetch (baseUrl + "/users");
+fetch (baseUrl + "/posts");
+
+const appName = "my app";
+console.log("welcome to",appName);
