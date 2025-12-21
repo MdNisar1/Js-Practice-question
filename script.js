@@ -117,10 +117,18 @@
 // const appName = "my app";
 // console.log("welcome to",appName);
 
-let name = "nisar";
-let age = 25;
-let city = "katihar";
-console.log(name,age,city)
+// let name = "nisar";
+// let age = 25;
+// let city = "katihar";
+// console.log(name,age,city)
 
-console.info("user logged in successfully");
-console.warn("your password will expire in 5 days");
+// console.info("user logged in successfully");
+// console.warn("your password will expire in 5 days");
+
+// prompt("enter your name:");
+
+let name = prompt("enter your name:");
+console.log("your name is:",name);
+
+let name = prompt("enter your name:");
+alert("your name is:"+ name);
