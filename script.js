@@ -134,5 +134,8 @@
 // alert("your name is:"+ name);
 
 
-let userInput = prompt("Kuch bhi likho:");
-console.log(typeof userInput);
+// let userInput = prompt("Kuch bhi likho:");
+// console.log(typeof userInput);
+
+let age = prompt("enter your age:");
+console.log(age + 5);
