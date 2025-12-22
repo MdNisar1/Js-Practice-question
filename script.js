@@ -137,5 +137,13 @@
 // let userInput = prompt("Kuch bhi likho:");
 // console.log(typeof userInput);
 
-let age = prompt("enter your age:");
-console.log(age + 5);
+// let age = prompt("enter your age:");
+// console.log(age + 5);
+
+let msg = "hello nisar";
+console.log(msg);
+console.log(msg.slice(0,5))
+console.log(msg.replace("nisar","sir"));
+let name = "nisar";
+console.log(`hey ${name},welcome to js`);
+console.log(msg.includes("love"));
