@@ -127,8 +127,12 @@
 
 // prompt("enter your name:");
 
-let name = prompt("enter your name:");
-console.log("your name is:",name);
+// let name = prompt("enter your name:");
+// console.log("your name is:",name);
 
-let name = prompt("enter your name:");
-alert("your name is:"+ name);
+// let name = prompt("enter your name:");
+// alert("your name is:"+ name);
+
+
+let userInput = prompt("Kuch bhi likho:");
+console.log(typeof userInput);
