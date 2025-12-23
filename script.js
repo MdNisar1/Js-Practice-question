@@ -150,11 +150,11 @@
 // console.log(msg.includes("love"));
 
 
-console.log("nisar");
-console.log("nisar");
-console.log("nisar");
+// console.log("nisar");
+// console.log("nisar");
+// console.log("nisar");
 
-console.log("hello")console.log("nisar");
+// console.log("hello")console.log("nisar");
 
 // nisar
 
@@ -162,3 +162,28 @@ console.log("hello")console.log("nisar");
 JavaScript seekhne ke liye use hota hai
 Aur debugging me help karta hai*/
 
+// console.log(5+10); // expression
+// let x = 10; //statement
+
+// let y = (5+10)*2;
+// console.log(y);
+/*👉 kuch cheezein value deti hain (expression)
+👉 aur kuch cheezein sirf kaam karti hain (statement)*/
+
+let age = 23;
+let name = "nisar";
+let isStudent = true;
+let skills = ("html","css","js");
+let user = {city :"katihar"};
+let x = null;
+let y;
+let z = Symbol ("id");
+
+console.log(typeof age)
+console.log(typeof name)
+console.log(typeof isStudent)
+console.log(typeof skills)
+console.log(typeof user)
+console.log(typeof x)
+console.log(typeof y)
+console.log(typeof z)
