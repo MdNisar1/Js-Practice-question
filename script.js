@@ -140,10 +140,25 @@
 // let age = prompt("enter your age:");
 // console.log(age + 5);
 
-let msg = "hello nisar";
-console.log(msg);
-console.log(msg.slice(0,5))
-console.log(msg.replace("nisar","sir"));
-let name = "nisar";
-console.log(`hey ${name},welcome to js`);
-console.log(msg.includes("love"));
+
+// let msg = "hello nisar";
+// console.log(msg);
+// console.log(msg.slice(0,5))
+// console.log(msg.replace("nisar","sir"));
+// let name = "nisar";
+// console.log(`hey ${name},welcome to js`);
+// console.log(msg.includes("love"));
+
+
+console.log("nisar");
+console.log("nisar");
+console.log("nisar");
+
+console.log("hello")console.log("nisar");
+
+// nisar
+
+/*Ye code console me message print karta hai
+JavaScript seekhne ke liye use hota hai
+Aur debugging me help karta hai*/
+
