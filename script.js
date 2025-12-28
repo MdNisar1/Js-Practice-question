@@ -170,20 +170,38 @@ Aur debugging me help karta hai*/
 /*👉 kuch cheezein value deti hain (expression)
 👉 aur kuch cheezein sirf kaam karti hain (statement)*/
 
-let age = 23;
-let name = "nisar";
-let isStudent = true;
-let skills = ("html","css","js");
-let user = {city :"katihar"};
-let x = null;
-let y;
-let z = Symbol ("id");
+// let age = 23;
+// let name = "nisar";
+// let isStudent = true;
+// let skills = ("html","css","js");
+// let user = {city :"katihar"};
+// let x = null;
+// let y;
+// let z = Symbol ("id");
 
-console.log(typeof age)
-console.log(typeof name)
-console.log(typeof isStudent)
-console.log(typeof skills)
-console.log(typeof user)
-console.log(typeof x)
-console.log(typeof y)
-console.log(typeof z)
+// console.log(typeof age)
+// console.log(typeof name)
+// console.log(typeof isStudent)
+// console.log(typeof skills)
+// console.log(typeof user)
+// console.log(typeof x)
+// console.log(typeof y)
+// console.log(typeof z)
+
+// let x = 5;
+// let y = x;
+// y = 10;
+// console.log(x,y);
+
+// let obj1 = {name: "nisar"};
+// let obj2 = obj1;
+// obj2.name = "md nisar";
+
+
+// lecture 37 function in java script ...........//
+
+function aaluparatha(){
+    console.log("paratha")
+}
+aaluparatha();
+aaluparatha();
