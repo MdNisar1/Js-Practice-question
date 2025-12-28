@@ -200,8 +200,15 @@ Aur debugging me help karta hai*/
 
 // lecture 37 function in java script ...........//
 
-function aaluparatha(){
-    console.log("paratha")
+// function aaluparatha(){
+//     console.log("paratha")
+// }
+// aaluparatha();
+// aaluparatha();
+// aaluparatha();
+
+function dfgh(age, name){
+    console.log(age, name);
 }
-aaluparatha();
-aaluparatha();
+dfgh(23,"nisar");
+
