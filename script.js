@@ -207,8 +207,12 @@ Aur debugging me help karta hai*/
 // aaluparatha();
 // aaluparatha();
 
-function dfgh(age, name){
-    console.log(age, name);
-}
-dfgh(23,"nisar");
+// function dfgh(age, name){
+//     console.log(age, name);
+// }
+// dfgh(23,"nisar");
 
+function abcd(a,b,...c){
+    console.log(a,b,c)
+}
+abcd(1,2,3,4,5,6,7);
